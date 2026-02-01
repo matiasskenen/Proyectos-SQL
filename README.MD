@@ -47,7 +47,7 @@ Cada proyecto contiene archivos SQL ordenados secuencialmente:
 
 ## Cómo usar
 
-Para los proyectos SQL puros, abre los archivos en tu cliente MySQL favorito (MySQL Workbench, DBeaver, etc.) y ejecuta cada archivo en orden.
+Para los proyectos SQL puros, abre los archivos en tu cliente MySQL (MySQL Workbench, DBeaver, etc.) y ejecuta cada archivo en orden.
 
 Para el proyecto Python:
 
